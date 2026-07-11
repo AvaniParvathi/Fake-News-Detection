@@ -8,8 +8,6 @@ __pycache__/
 # Dataset
 data/*.csv
 
-# Model files (we'll create these later)
-models/
 
 # Virtual Environment
 venv/
