@@ -24,42 +24,6 @@ The system performs text preprocessing, feature extraction, model training, eval
 - Real-time News Prediction
 
 
-
-📂 Project Structure
-
-fake_news_detection/
-│
-├── app/
-│   ├── app.py
-│   └── predictor.py
-│
-├── data/
-│
-├── models/
-│   ├── best_ann_model.keras
-│   ├── best_lstm_model.keras
-│   ├── random_forest_model.pkl
-│   ├── tokenizer.pkl
-│   └── tfidf_vectorizer.pkl
-│
-├── notebooks/
-│   ├── 1.eda.ipynb
-│   ├── 2.ML models.ipynb
-│   └── 3.DL models.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── text_cleaner.py
-│   ├── feature_engineering.py
-│   └── ...
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
-
-
-
  📊 Dataset
 
 Dataset Source:
